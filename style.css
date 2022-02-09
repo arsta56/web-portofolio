@@ -1,0 +1,17 @@
+.jumbotron {
+  background-color: rgb(76, 167, 241);
+  padding-top: 6rem;
+}
+#featured--image {
+  width: 300px;
+  text-align: center;
+}
+#project {
+  background-color: rgb(76, 167, 241);
+}
+.card {
+  background-color: rgb(255, 255, 255);
+}
+section {
+  padding-top: 5rem;
+}
